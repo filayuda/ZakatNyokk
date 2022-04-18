@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1366px" height="768px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1366 768"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil5 {fill:none}
+    .fil3 {fill:#F49800;fill-rule:nonzero}
+    .fil0 {fill:#FF9F00;fill-rule:nonzero}
+    .fil4 {fill:#FFD48C;fill-rule:nonzero}
+    .fil1 {fill:white;fill-rule:nonzero;fill-opacity:0.101961}
+    .fil2 {fill:#FFB73F;fill-rule:nonzero;fill-opacity:0.431373}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M0 0l1366 0 0 768 -1366 0 0 -768z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <rect class="fil0" x="-116.21" y="-73.32" width="1598.42" height="914.65"/>
+    <g id="_2077284856496">
+     <path class="fil1" d="M1620.16 239.2c-72.63,17.69 -937.91,-107.71 -1542.8,909.69l1650.04 190.96c-5.48,-374.25 -34.62,-1118.34 -107.24,-1100.65z"/>
+     <path class="fil2" d="M1188.45 806.83c-70.37,-50.46 -674.05,-871.3 -1867.67,-723.3l1184.81 1533.82c256.94,-249.14 753.22,-760.05 682.86,-810.52z"/>
+     <ellipse class="fil3" cx="151.21" cy="783.57" rx="219.66" ry="209.78"/>
+     <ellipse class="fil4" cx="1429.66" cy="297.22" rx="219.66" ry="209.78"/>
+    </g>
+   </g>
+  </g>
+  <polygon class="fil5" points="0,0 1366,0 1366,768 0,768 "/>
+ </g>
+</svg>
